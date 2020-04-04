@@ -1,2 +1,4 @@
+web/
 /web
+/web/*
 /node_modules
