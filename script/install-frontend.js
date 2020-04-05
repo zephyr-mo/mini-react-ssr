@@ -4,37 +4,41 @@ const path       = require('path');
 const cwd        = process.cwd();
 const fs         = require('fs');
 const folderPath = path.join(cwd, 'web');
-const exec       = require('child_process').exec;
+const shell      = require('shelljs');     // 执行shell
+const ora        = require('ora');         // 美化输出
+
 
 const CMD_CLONE   = 'git clone git@github.com:zephyr-mo/socket-react-portal-web.git web';
 const CMD_INSTALL = 'yarn';
 const CMD_BUILD   = 'yarn build';
+const spinner     = ora();
 
 if (fs.existsSync(folderPath)) {
-    console.info(`[sync] Package Exists . [${folderPath}]`);
+    spinner.start(`[sync] Package Exists . [${folderPath}]`);
     __install();
 } else {
-    console.info(`[sync] Package NOT exists [${folderPath}].`);
-    console.info(`[sync] Start Clone from github`);
-    console.info(`[sync] Running "${CMD_CLONE}"`);
-    exec(CMD_CLONE, (err, stdout, stderr) => {
+    spinner.text = `[sync] Package NOT exists [${folderPath}].`;
+    spinner.text = `[sync] Start Clone from github`;
+    spinner.text = `[sync] Running "${CMD_CLONE}"`;
+    shell.exec(CMD_CLONE, (err, stdout, stderr) => {
         if (err) {
-            console.error(`[sync] ERROR: Clone . ${stderr}`);
+            spinner.fail(`[sync] ERROR: Clone . ${stderr}`);
         } else {
-            console.log(`[sync] DONE: Clone . ${stdout}`);
+            spinner.succeed(`[sync] DONE: Clone . ${stdout}`);
         }
     })
 }
 
 function __install() {
-    console.info(`[sycn] Start install Package...`);
-    console.info(`[sync] Running "${CMD_INSTALL}"`);
+    spinner.start(`[sycn] Start install Package...`);
+    spinner.text = `[sync] Running "${CMD_INSTALL}"`;
 
-    exec(`cd ${folderPath} && ${CMD_INSTALL} && ${CMD_BUILD}`, (err, stdout, stderr) => {
+    spinner.text = '';
+    shell.exec(`cd ${folderPath} && ${CMD_INSTALL} && ${CMD_BUILD}`, (err, stdout, stderr) => {
         if (err) {
-            console.error(`[sync] ERROR: install [${folderPath}]. ${stderr}`);
+            spinner.fail(`[sync] ERROR: install [${folderPath}]. ${stderr}`);
         } else {
-            console.log(`[sync] DONE: install [${folderPath}]. ${stdout}`);
+            spinner.succeed(`[sync] DONE: install [${folderPath}]. ${stdout}`);
         }
     });
 }
