@@ -1,0 +1,32 @@
+{
+  "name": "socket-react-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index",
+    "ii": "yarn && yarn run install-frontend",
+    "install-frontend": "node script/install-frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephyr-mo/socket-react-portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zephyr-mo/socket-react-portal/issues"
+  },
+  "homepage": "https://github.com/zephyr-mo/socket-react-portal#readme",
+  "devDependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "koa-static-cache": "^5.1.2",
+    "koa2-cors": "^2.0.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.1.2"
+  }
+}
