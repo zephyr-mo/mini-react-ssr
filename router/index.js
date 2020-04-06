@@ -1,5 +1,5 @@
 const router = require('koa-router')();
-const render = require('../render');
+const {render} = require('../render');
 
 console.log(render);
 router.get('*', render);

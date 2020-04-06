@@ -5,10 +5,7 @@ const {CleanWebpackPlugin} = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'development',
-  entry: {
-    render: './render',
-    // test: './render/test'
-  },
+  entry: './index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
     publicPath: '/dist/',
@@ -76,6 +73,10 @@ module.exports = {
     // 独立css文件
     new ExtractTextPlugin("css/[name].css")
   ],
+  node: {
+    fs: 'empty',
+    net: 'empty'
+  },
   devServer: {
     port: 8086
   }
