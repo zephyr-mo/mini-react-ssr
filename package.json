@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index",
+    "dev": "webpack && node dist/bundle.js",
     "ii": "yarn && yarn run install-frontend",
     "install-frontend": "node script/install-frontend",
     "server": "node_modules/.bin/webpack-dev-server && node dist/bundle.js"
