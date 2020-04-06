@@ -8,7 +8,7 @@ const shell      = require('shelljs');     // 执行shell
 const ora        = require('ora');         // 美化输出
 
 
-const CMD_CLONE   = 'git clone git@github.com:zephyr-mo/socket-react-portal-web.git web';
+const CMD_CLONE   = 'git clone git@github.com:zephyr-mo/mini-react-ssr.git web';
 const CMD_INSTALL = 'yarn';
 const CMD_BUILD   = 'yarn build';
 const spinner     = ora();
