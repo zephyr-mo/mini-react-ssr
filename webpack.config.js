@@ -17,7 +17,7 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: [['@babel/preset-react', {modules: false}], ['@babel/preset-env', {modules: false}]],
+            presets: [['@babel/preset-react', { modules: false }], ['@babel/preset-env', { modules: false }]],
           }
         }
       },
@@ -25,6 +25,55 @@ module.exports = {
         test: /\.css$/,
         use: {
           loader: 'css-loader'
+        }
+      },
+      {
+        test: /\.s[ac]ss$/i,
+        use: [
+          {
+            loader:'style-loader',
+            options: {
+              injectType: 'linkTag',
+            },
+          },
+          {loader: 'css-loader'},
+         
+          {
+            loader: 'sass-loader',
+            // options: {
+            //   implementation: require('sass'),
+            //   sassOptions: {
+            //     fiber: false,
+            //   },
+            // },
+          },
+        ],
+      },
+      {
+        test: /\.less$/i,
+        use: [
+          {
+            loader:'style-loader',
+            options: {
+              injectType: 'linkTag',
+            },
+          },
+          {loader: 'css-loader'},
+          {
+            loader: 'less-loader',
+            // options: {
+            //   implementation: require('less'),
+            // },
+          },
+        ],
+      },
+      {
+        test: /\.(html)$/,
+        use: {
+          loader: 'html-loader',
+          // options: {
+          //   attrs: [':data-src']
+          // }
         }
       },
       {
@@ -53,12 +102,12 @@ module.exports = {
       }
     ]
   },
-//   plugins: [
-//     new ExtractTextPlugin("css/[name].css")
-//   ],
+  //   plugins: [
+  //     new ExtractTextPlugin("css/[name].css")
+  //   ],
   target: 'node',
   externals: [nodeExternals()],
   devServer: {
-      port: 6001
+    port: 6001
   }
 };

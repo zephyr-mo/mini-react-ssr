@@ -14,6 +14,8 @@ exports.layout = function (content, initState) {
     <meta name="theme-color" content="#000000">
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="../web/src/css/less/test3.less">
+    <link rel="stylesheet" href="../web/src/css/scss/test3.scss">
     <title>React App</title>
 
 
