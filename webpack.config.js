@@ -70,7 +70,7 @@ module.exports = {
     }),
     // 改造css-loader
     new Extract({
-      filename: 'css/[name]_[hash:8].css'
+      filename: 'css/client.css'
     })
   ],
   devServer: {
