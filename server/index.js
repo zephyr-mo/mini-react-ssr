@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import { StaticRouter, matchPath } from 'react-router-dom'
-import { layout } from './layout';
+import layout from './layout';
 import App from '../web/src/App';
 import { matchRoutes } from 'react-router-config';
 import router from '../web/src/router';

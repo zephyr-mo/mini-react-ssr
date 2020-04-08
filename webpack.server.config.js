@@ -1,26 +1,26 @@
 const path = require('path');
-// const nodeExternals = require('webpack-node-externals');
-// 构建css前的插件
-const Extract = require('extract-text-webpack-plugin');
-// 生成html并插入对应js、css
-const Html = require('html-webpack-plugin');
-// 清理dist文件夹
-const { CleanWebpackPlugin: Clean } = require('clean-webpack-plugin');
+// exclude node
+const nodeExternals = require('webpack-node-externals');
 
 module.exports = {
   mode: 'development',
-  entry: './web/src',
+  entry: {
+    ssr: ['./server'], // 入口文件
+  },
+  target: 'node',
+  externals: [ new nodeExternals() ],
   devtool: 'source-map',
   output: {
+    libraryTarget: 'umd',
     path: path.resolve(__dirname, 'dist'),
-    filename: 'js/client.js',
+    filename: 'js/server.js',
   },
   module: {
     rules: [
       // 编译js
       {
         test: /\.js$|\.jsx$/,
-        exclude: /(node_modules|bower_components)/,
+        exclude: /(node_modules)/,
         use: {
           loader: 'babel-loader',
           options: {
@@ -32,9 +32,7 @@ module.exports = {
       // 编译sass、css，顺序从后往前
       {
         test: /\.(css|scss)$/,
-        loader: Extract.extract({
-          use: ['css-loader', 'sass-loader']
-        })
+        use: ['ignore-loader']
       },
       {
         test: /\.(woff|woff2|eot|ttf|otf|svg)$/,
@@ -61,18 +59,6 @@ module.exports = {
       }
     ]
   },
-  plugins: [
-    // 清理dist文件夹
-    new Clean(),
-    // 选择模版并且渲染html注入样式和脚本
-    new Html({
-      template: './index.html'
-    }),
-    // 改造css-loader
-    new Extract({
-      filename: 'css/[name]_[hash:8].css'
-    })
-  ],
   devServer: {
       port: 6001,
       open: true
