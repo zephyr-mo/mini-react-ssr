@@ -10,8 +10,8 @@ const { CleanWebpackPlugin: Clean } = require('clean-webpack-plugin');
 module.exports = {
   mode: 'development',
   entry: {
-    spa: './web/src',
-    ssr: './index.js'
+    spa: './web/src', // 单页面入口文件
+    // ssr: './index.js' // TODO：unfinish
   },
   devtool: 'source-map',
   output: {
@@ -20,16 +20,19 @@ module.exports = {
   },
   module: {
     rules: [
+      // 编译js
       {
         test: /\.js$|\.jsx$/,
         exclude: /(node_modules|bower_components)/,
         use: {
           loader: 'babel-loader',
           options: {
+            // 编译jsx
             presets: ['@babel/preset-react', '@babel/preset-env'],
           }
         }
       },
+      // 编译sass、css，顺序从后往前
       {
         test: /\.(css|scss)$/,
         loader: Extract.extract({
@@ -62,10 +65,13 @@ module.exports = {
     ]
   },
   plugins: [
+    // 清理dist文件夹
     new Clean(),
+    // 选择模版并且渲染html注入样式和脚本
     new Html({
       template: './index.html'
     }),
+    // 改造css-loader
     new Extract({
       filename: 'css/[name]_[hash:8].css'
     })
