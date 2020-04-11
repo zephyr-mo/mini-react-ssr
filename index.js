@@ -11,7 +11,7 @@ app.use(staticCache(path.resolve(__dirname, './'), {
     gzip  : true
 }));
 app.use(router.routes());
-;const port = process.env.PORT || '3008';
+const port = process.env.PORT || '3008';
 
 app.listen(port, () => {
     console.log('listen on:' + port);

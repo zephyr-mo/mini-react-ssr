@@ -1,0 +1,1918 @@
+{
+  "@babel/runtime/helpers/esm/extends": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "@babel/runtime/helpers/esm/inheritsLoose": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "@babel/runtime/helpers/esm/objectWithoutPropertiesLoose": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "@babel/runtime/helpers/inheritsLoose": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "name": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "gud": [
+    {
+      "id": "./node_modules/gud/index.js",
+      "name": "./node_modules/gud/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/gud/index.js",
+      "name": "./node_modules/gud/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/gud/index.js",
+      "name": "./node_modules/gud/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/gud/index.js",
+      "name": "./node_modules/gud/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "history": [
+    {
+      "id": "./node_modules/history/esm/history.js",
+      "name": "./node_modules/history/esm/history.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/history/esm/history.js",
+      "name": "./node_modules/history/esm/history.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/history/esm/history.js",
+      "name": "./node_modules/history/esm/history.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/history/esm/history.js",
+      "name": "./node_modules/history/esm/history.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "mini-create-react-context": [
+    {
+      "id": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "name": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "name": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "name": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "name": "./node_modules/mini-create-react-context/dist/esm/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/object-assign/index.js",
+      "name": "./web/node_modules/object-assign/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/object-assign/index.js",
+      "name": "./web/node_modules/object-assign/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/object-assign/index.js",
+      "name": "./web/node_modules/object-assign/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    },
+    {
+      "id": "./web/node_modules/object-assign/index.js",
+      "name": "./web/node_modules/object-assign/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": "./node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/path-to-regexp/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/path-to-regexp/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/path-to-regexp/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/path-to-regexp/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "isarray": [
+    {
+      "id": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "name": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "name": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "name": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "name": "./node_modules/path-to-regexp/node_modules/isarray/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../../../../node_modules/process/browser.js": [
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./checkPropTypes": [
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./factoryWithTypeCheckers": [
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    },
+    {
+      "id": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./web/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cjs/react-is.development.js": [
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "name": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "name": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "name": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "name": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "react-is": [
+    {
+      "id": "./node_modules/react-is/index.js",
+      "name": "./node_modules/react-is/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react-is/index.js",
+      "name": "./node_modules/react-is/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react-is/index.js",
+      "name": "./node_modules/react-is/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react-is/index.js",
+      "name": "./node_modules/react-is/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "react-router-dom": [
+    {
+      "id": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "name": "./node_modules/react-router-dom/esm/react-router-dom.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "react-router": [
+    {
+      "id": "./node_modules/react-router/esm/react-router.js",
+      "name": "./node_modules/react-router/esm/react-router.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react-router/esm/react-router.js",
+      "name": "./node_modules/react-router/esm/react-router.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react-router/esm/react-router.js",
+      "name": "./node_modules/react-router/esm/react-router.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react-router/esm/react-router.js",
+      "name": "./node_modules/react-router/esm/react-router.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cjs/react.development.js": [
+    {
+      "id": "./node_modules/react/cjs/react.development.js",
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/react/cjs/react.development.js",
+      "name": "./web/node_modules/react/cjs/react.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react/cjs/react.development.js",
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/react/cjs/react.development.js",
+      "name": "./web/node_modules/react/cjs/react.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react/cjs/react.development.js",
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/react/cjs/react.development.js",
+      "name": "./web/node_modules/react/cjs/react.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react/cjs/react.development.js",
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    },
+    {
+      "id": "./web/node_modules/react/cjs/react.development.js",
+      "name": "./web/node_modules/react/cjs/react.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "react": [
+    {
+      "id": "./node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/react/index.js",
+      "name": "./web/node_modules/react/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/react/index.js",
+      "name": "./web/node_modules/react/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/react/index.js",
+      "name": "./web/node_modules/react/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    },
+    {
+      "id": "./web/node_modules/react/index.js",
+      "name": "./web/node_modules/react/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "resolve-pathname": [
+    {
+      "id": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "name": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "name": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "name": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "name": "./node_modules/resolve-pathname/esm/resolve-pathname.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "tiny-invariant": [
+    {
+      "id": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "name": "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "tiny-warning": [
+    {
+      "id": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "name": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "name": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "name": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "name": "./node_modules/tiny-warning/dist/tiny-warning.esm.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "value-equal": [
+    {
+      "id": "./node_modules/value-equal/esm/value-equal.js",
+      "name": "./node_modules/value-equal/esm/value-equal.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/value-equal/esm/value-equal.js",
+      "name": "./node_modules/value-equal/esm/value-equal.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/value-equal/esm/value-equal.js",
+      "name": "./node_modules/value-equal/esm/value-equal.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/value-equal/esm/value-equal.js",
+      "name": "./node_modules/value-equal/esm/value-equal.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../webpack/buildin/global.js": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "axios": [
+    {
+      "id": "./web/node_modules/axios/index.js",
+      "name": "./web/node_modules/axios/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/index.js",
+      "name": "./web/node_modules/axios/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/index.js",
+      "name": "./web/node_modules/axios/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/index.js",
+      "name": "./web/node_modules/axios/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./adapters/xhr": [
+    {
+      "id": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "name": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "name": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "name": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "name": "./web/node_modules/axios/lib/adapters/xhr.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./lib/axios": [
+    {
+      "id": "./web/node_modules/axios/lib/axios.js",
+      "name": "./web/node_modules/axios/lib/axios.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/axios.js",
+      "name": "./web/node_modules/axios/lib/axios.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/axios.js",
+      "name": "./web/node_modules/axios/lib/axios.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/axios.js",
+      "name": "./web/node_modules/axios/lib/axios.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cancel/Cancel": [
+    {
+      "id": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/Cancel.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cancel/CancelToken": [
+    {
+      "id": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "name": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "name": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "name": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "name": "./web/node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cancel/isCancel": [
+    {
+      "id": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "name": "./web/node_modules/axios/lib/cancel/isCancel.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./core/Axios": [
+    {
+      "id": "./web/node_modules/axios/lib/core/Axios.js",
+      "name": "./web/node_modules/axios/lib/core/Axios.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/Axios.js",
+      "name": "./web/node_modules/axios/lib/core/Axios.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/Axios.js",
+      "name": "./web/node_modules/axios/lib/core/Axios.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/Axios.js",
+      "name": "./web/node_modules/axios/lib/core/Axios.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./InterceptorManager": [
+    {
+      "id": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "name": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "name": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "name": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "name": "./web/node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../core/buildFullPath": [
+    {
+      "id": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "name": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "name": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "name": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "name": "./web/node_modules/axios/lib/core/buildFullPath.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../core/createError": [
+    {
+      "id": "./web/node_modules/axios/lib/core/createError.js",
+      "name": "./web/node_modules/axios/lib/core/createError.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/createError.js",
+      "name": "./web/node_modules/axios/lib/core/createError.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/createError.js",
+      "name": "./web/node_modules/axios/lib/core/createError.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/createError.js",
+      "name": "./web/node_modules/axios/lib/core/createError.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./dispatchRequest": [
+    {
+      "id": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "name": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "name": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "name": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "name": "./web/node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./enhanceError": [
+    {
+      "id": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "name": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "name": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "name": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "name": "./web/node_modules/axios/lib/core/enhanceError.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./core/mergeConfig": [
+    {
+      "id": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "name": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "name": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "name": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "name": "./web/node_modules/axios/lib/core/mergeConfig.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../core/settle": [
+    {
+      "id": "./web/node_modules/axios/lib/core/settle.js",
+      "name": "./web/node_modules/axios/lib/core/settle.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/settle.js",
+      "name": "./web/node_modules/axios/lib/core/settle.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/settle.js",
+      "name": "./web/node_modules/axios/lib/core/settle.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/settle.js",
+      "name": "./web/node_modules/axios/lib/core/settle.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./transformData": [
+    {
+      "id": "./web/node_modules/axios/lib/core/transformData.js",
+      "name": "./web/node_modules/axios/lib/core/transformData.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/transformData.js",
+      "name": "./web/node_modules/axios/lib/core/transformData.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/transformData.js",
+      "name": "./web/node_modules/axios/lib/core/transformData.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/core/transformData.js",
+      "name": "./web/node_modules/axios/lib/core/transformData.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./defaults": [
+    {
+      "id": "./web/node_modules/axios/lib/defaults.js",
+      "name": "./web/node_modules/axios/lib/defaults.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/defaults.js",
+      "name": "./web/node_modules/axios/lib/defaults.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/defaults.js",
+      "name": "./web/node_modules/axios/lib/defaults.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/defaults.js",
+      "name": "./web/node_modules/axios/lib/defaults.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./helpers/bind": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/bind.js",
+      "name": "./web/node_modules/axios/lib/helpers/bind.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/bind.js",
+      "name": "./web/node_modules/axios/lib/helpers/bind.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/bind.js",
+      "name": "./web/node_modules/axios/lib/helpers/bind.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/bind.js",
+      "name": "./web/node_modules/axios/lib/helpers/bind.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../helpers/buildURL": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/buildURL.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../helpers/combineURLs": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "name": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "name": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "name": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "name": "./web/node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../helpers/cookies": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "name": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "name": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "name": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "name": "./web/node_modules/axios/lib/helpers/cookies.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../helpers/isAbsoluteURL": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "name": "./web/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../helpers/isURLSameOrigin": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "name": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "name": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "name": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "name": "./web/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./helpers/normalizeHeaderName": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "name": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "name": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "name": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "name": "./web/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./../helpers/parseHeaders": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "name": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "name": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "name": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "name": "./web/node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./helpers/spread": [
+    {
+      "id": "./web/node_modules/axios/lib/helpers/spread.js",
+      "name": "./web/node_modules/axios/lib/helpers/spread.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/spread.js",
+      "name": "./web/node_modules/axios/lib/helpers/spread.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/spread.js",
+      "name": "./web/node_modules/axios/lib/helpers/spread.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/helpers/spread.js",
+      "name": "./web/node_modules/axios/lib/helpers/spread.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./utils": [
+    {
+      "id": "./web/node_modules/axios/lib/utils.js",
+      "name": "./web/node_modules/axios/lib/utils.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/utils.js",
+      "name": "./web/node_modules/axios/lib/utils.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/utils.js",
+      "name": "./web/node_modules/axios/lib/utils.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/axios/lib/utils.js",
+      "name": "./web/node_modules/axios/lib/utils.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "prop-types/checkPropTypes": [
+    {
+      "id": "./web/node_modules/prop-types/checkPropTypes.js",
+      "name": "./web/node_modules/prop-types/checkPropTypes.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/prop-types/checkPropTypes.js",
+      "name": "./web/node_modules/prop-types/checkPropTypes.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/prop-types/checkPropTypes.js",
+      "name": "./web/node_modules/prop-types/checkPropTypes.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/prop-types/checkPropTypes.js",
+      "name": "./web/node_modules/prop-types/checkPropTypes.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cjs/react-dom.development.js": [
+    {
+      "id": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "name": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "name": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "name": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "name": "./web/node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": "./web/node_modules/react-dom/index.js",
+      "name": "./web/node_modules/react-dom/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/react-dom/index.js",
+      "name": "./web/node_modules/react-dom/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/react-dom/index.js",
+      "name": "./web/node_modules/react-dom/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/react-dom/index.js",
+      "name": "./web/node_modules/react-dom/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cjs/scheduler-tracing.development.js": [
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./cjs/scheduler.development.js": [
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "name": "./web/node_modules/scheduler/cjs/scheduler.development.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "scheduler": [
+    {
+      "id": "./web/node_modules/scheduler/index.js",
+      "name": "./web/node_modules/scheduler/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/scheduler/index.js",
+      "name": "./web/node_modules/scheduler/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/scheduler/index.js",
+      "name": "./web/node_modules/scheduler/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/scheduler/index.js",
+      "name": "./web/node_modules/scheduler/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "scheduler/tracing": [
+    {
+      "id": "./web/node_modules/scheduler/tracing.js",
+      "name": "./web/node_modules/scheduler/tracing.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/node_modules/scheduler/tracing.js",
+      "name": "./web/node_modules/scheduler/tracing.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/node_modules/scheduler/tracing.js",
+      "name": "./web/node_modules/scheduler/tracing.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/node_modules/scheduler/tracing.js",
+      "name": "./web/node_modules/scheduler/tracing.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./App.css": [
+    {
+      "id": "./web/src/App.css",
+      "name": "./web/src/App.css",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/App.css",
+      "name": "./web/src/App.css",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/App.css",
+      "name": "./web/src/App.css",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/App.css",
+      "name": "./web/src/App.css",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./App": [
+    {
+      "id": "./web/src/App.js",
+      "name": "./web/src/App.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/App.js",
+      "name": "./web/src/App.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/App.js",
+      "name": "./web/src/App.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/App.js",
+      "name": "./web/src/App.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../components/home.jsx": [
+    {
+      "id": "./web/src/components/home.jsx",
+      "name": "./web/src/components/home.jsx",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/components/home.jsx",
+      "name": "./web/src/components/home.jsx",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/components/home.jsx",
+      "name": "./web/src/components/home.jsx",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/components/home.jsx",
+      "name": "./web/src/components/home.jsx",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../components/test.jsx": [
+    {
+      "id": "./web/src/components/test.jsx",
+      "name": "./web/src/components/test.jsx",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/components/test.jsx",
+      "name": "./web/src/components/test.jsx",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/components/test.jsx",
+      "name": "./web/src/components/test.jsx",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/components/test.jsx",
+      "name": "./web/src/components/test.jsx",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../components/test2.jsx": [
+    {
+      "id": "./web/src/components/test2.jsx",
+      "name": "./web/src/components/test2.jsx",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/components/test2.jsx",
+      "name": "./web/src/components/test2.jsx",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/components/test2.jsx",
+      "name": "./web/src/components/test2.jsx",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/components/test2.jsx",
+      "name": "./web/src/components/test2.jsx",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./index.css": [
+    {
+      "id": "./web/src/index.css",
+      "name": "./web/src/index.css",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/index.css",
+      "name": "./web/src/index.css",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/index.css",
+      "name": "./web/src/index.css",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/index.css",
+      "name": "./web/src/index.css",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./web/src": [
+    {
+      "id": "./web/src/index.js",
+      "name": "./web/src/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/index.js",
+      "name": "./web/src/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/index.js",
+      "name": "./web/src/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/index.js",
+      "name": "./web/src/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "../logo.svg": [
+    {
+      "id": "./web/src/logo.svg",
+      "name": "./web/src/logo.svg",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/logo.svg",
+      "name": "./web/src/logo.svg",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/logo.svg",
+      "name": "./web/src/logo.svg",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/logo.svg",
+      "name": "./web/src/logo.svg",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./router": [
+    {
+      "id": "./web/src/router/index.js",
+      "name": "./web/src/router/index.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/router/index.js",
+      "name": "./web/src/router/index.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/router/index.js",
+      "name": "./web/src/router/index.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/router/index.js",
+      "name": "./web/src/router/index.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ],
+  "./serviceWorker": [
+    {
+      "id": "./web/src/serviceWorker.js",
+      "name": "./web/src/serviceWorker.js",
+      "file": "js/client.js",
+      "publicPath": "js/client.js"
+    },
+    {
+      "id": "./web/src/serviceWorker.js",
+      "name": "./web/src/serviceWorker.js",
+      "file": "css/client.css",
+      "publicPath": "css/client.css"
+    },
+    {
+      "id": "./web/src/serviceWorker.js",
+      "name": "./web/src/serviceWorker.js",
+      "file": "js/client.js.map",
+      "publicPath": "js/client.js.map"
+    },
+    {
+      "id": "./web/src/serviceWorker.js",
+      "name": "./web/src/serviceWorker.js",
+      "file": "css/client.css.map",
+      "publicPath": "css/client.css.map"
+    }
+  ]
+}

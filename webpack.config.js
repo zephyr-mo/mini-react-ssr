@@ -6,7 +6,7 @@ const Extract = require('extract-text-webpack-plugin');
 const Html = require('html-webpack-plugin');
 // 清理dist文件夹
 const { CleanWebpackPlugin: Clean } = require('clean-webpack-plugin');
-
+const { ReactLoadablePlugin:Loadable } = require ('react-loadable/webpack');
 module.exports = {
   mode: 'development',
   entry: './web/src',
@@ -71,6 +71,9 @@ module.exports = {
     // 改造css-loader
     new Extract({
       filename: 'css/client.css'
+    }),
+    new Loadable({
+      filename: './dist/react-loadable.json'
     })
   ],
   devServer: {

@@ -5,7 +5,7 @@ import layout from './layout';
 import App from '../web/src/App';
 import { matchRoutes } from 'react-router-config';
 import router from '../web/src/router';
-
+const Loadable = require('react-loadable') ;
 /**
  * 匹配当前请求url是否跟客户端路由一致 不一致则执行next 进行静态资源处理等
  * @param {*} routesArray
@@ -22,35 +22,55 @@ const getMatch = (routesArray, url) => {
 /**
  * 渲染服务端路由
  */
-const render = async (ctx, next) => {
-  const branch = matchRoutes(router, ctx.req.url);
-  const promises = branch.map(({
-    route
-  }) => {
-    const fetch = route.component.fetch;
-    return fetch instanceof Function ? fetch(store) : Promise.resolve(null)
-  });
-  await Promise.all(promises).catch((err) => {
-    console.log(err);
-  });
+// const render = async (ctx, next) => {
+//   const branch = matchRoutes(router, ctx.req.url);
+//   const promises = branch.map(({
+//     route
+//   }) => {
+//     const fetch = route.component.fetch;
+//     return fetch instanceof Function ? fetch(store) : Promise.resolve(null)
+//   });
+//   await Promise.all(promises).catch((err) => {
+//     console.log(err);
+//   });
 
-  let isMatch = getMatch(router, ctx.req.url);
+//   let isMatch = getMatch(router, ctx.req.url);
 
-  console.log('url', ctx.url);
-  if (!isMatch) {
-    await next();
+//   console.log('url', ctx.url);
+//   if (!isMatch) {
+//     await next();
+//   } else {
+//     const html = ReactDOMServer.renderToString(
+//       <StaticRouter
+//         location={ctx.url}
+//         context={{}}>
+//         <App/>
+//       </StaticRouter>
+//     )
+// console.log({html})
+//     const body = layout(html);
+//     ctx.body = body;
+//   }
+// }
+
+
+const loadingComponent =  (props) =>{
+  if (props.error) {
+    // When the loader has errored
+    return <div>Error! <button onClick={ props.retry }>Retry</button></div>;
+  } else if (props.timedOut) {
+    // When the loader has taken longer than the timeout
+    return <div>Taking a long time... <button onClick={ props.retry }>Retry</button></div>;
+  } else if (props.pastDelay) {
+    // When the loader has taken longer than the delay
+    return <div>Loading...</div>;
   } else {
-    const html = ReactDOMServer.renderToString(
-      <StaticRouter
-        location={ctx.url}
-        context={{}}>
-        <App/>
-      </StaticRouter>
-    )
-
-    const body = layout(html);
-    ctx.body = body;
+    // When the loader has just started
+    return null;
   }
 }
-
+const render = Loadable({
+  loader: () => import(/*  aaaaa */ '../web/src/components/test3.jsx'),
+  loading:loadingComponent,
+});
 export default render;
