@@ -63,7 +63,7 @@ module.exports = {
   },
   plugins: [
     // 清理dist文件夹
-    new Clean(),
+    // new Clean(),
     // 选择模版并且渲染html注入样式和脚本
     new Html({
       template: './index.html'

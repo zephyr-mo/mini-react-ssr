@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node_modules/.bin/webpack",
+    "dev:build": "node_modules/.bin/webpack --watch",
+    "dev": "npm-run-all --parallel dev:**",
+    "dev:ssr": "webpack --config webpack.server.config.js --watch",
+    "dev:start": "nodemon --watch dist --exec \"node index.js\"",
     "ii": "yarn && yarn run install-frontend",
     "install-frontend": "node script/install-frontend",
-    "dev": "node_modules/.bin/webpack-dev-server",
     "ssr": "yarn build && node_modules/.bin/webpack --config webpack.server.config.js && node index.js"
   },
   "repository": {
