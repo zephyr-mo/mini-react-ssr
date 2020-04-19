@@ -19,13 +19,14 @@ module.exports = {
     rules: [
       // 编译js
       {
-        test: /\.js$|\.jsx$/,
+        test: /\.(js|jsx)$/,
         exclude: /(node_modules)/,
         use: {
           loader: 'babel-loader',
           options: {
             // 编译jsx
             presets: ['@babel/preset-react', '@babel/preset-env'],
+            plugins: ['@babel/plugin-proposal-class-properties']
           }
         }
       },

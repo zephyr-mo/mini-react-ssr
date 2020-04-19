@@ -26,6 +26,7 @@ module.exports = {
           options: {
             // 编译jsx
             presets: ['@babel/preset-react', '@babel/preset-env'],
+            plugins: ['@babel/plugin-proposal-class-properties']
           }
         }
       },
